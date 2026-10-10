@@ -1,0 +1,16 @@
+{
+  "methods": ["google"],
+  "headline": "Welcome to RuralChange",
+  "subtitle": "Sign in to support your community.",
+  "style": {
+    "mode": "light",
+    "accentColor": "#285c43",
+    "backgroundColor": "#f6f8f4",
+    "panelColor": "#ffffff",
+    "textColor": "#203d35",
+    "borderRadius": 12
+  },
+  "termsUrl": "terms.html",
+  "privacyUrl": "privacy.html"
+}
+

@@ -1,0 +1,246 @@
+{
+  "package": "RuralChange organised GitHub archive",
+  "organisedDate": "2026-10-10",
+  "status": "older-source-archive-not-current-deployment",
+  "sourceSnapshot": "1791557963771",
+  "handoverDeploymentSnapshot": "1791561189479",
+  "originalExportMetadata": {
+    "appId": "ruralchange-ybouhd",
+    "snapshot": "1791557963771",
+    "declaredOwner": "Elias Kabelo Hlongwane",
+    "date": "2026-10-09",
+    "sourceFilesVerified": 15,
+    "liveRightsPageVerified": true,
+    "legalOwnershipIndependentlyVerified": false
+  },
+  "originalManifestVerification": {
+    "listedFiles": 21,
+    "matchingHashes": 21
+  },
+  "inputs": [
+    {
+      "name": "RuralChange Completion and Handover Pack.md",
+      "sha256": "71500d9a3ec857a7b56e32842995ff5659fd8c65b15c6bf48628a9d1636a83d1",
+      "bytes": 11085
+    },
+    {
+      "name": "RuralChange Completion and Handover Pack.pdf",
+      "sha256": "4644a0162e2a671d51fab1dad8ec68961998912aba487423da81fa1ecf597859",
+      "bytes": 48060
+    },
+    {
+      "name": "RuralChange Completion and Handover Pack.txt",
+      "sha256": "5e6885f8cbc32ce0749933fd20fb8df39bfa9109910c5d5592ccac72876a4623",
+      "bytes": 10774
+    },
+    {
+      "name": "RuralChange-Ownership-Package.zip",
+      "sha256": "ab528b2eeb276efe153cfd172003aff9a9eba8cf5469a7d0ce6469406d33baf3",
+      "bytes": 35020
+    }
+  ],
+  "changes": {
+    "README.md": "Replaced with consolidated upload guide and evidence-based review.",
+    "docs/HANDOVER.md": "Added supplied v1.1 Markdown with archive-version note.",
+    "EXPORT-MANIFEST.json": "Replaced with organised inventory and original provenance; original claims not newly certified."
+  },
+  "originalExportFileHashes": [
+    {
+      "path": ".gitignore",
+      "sha256": "1e4fc0f6159f229de956c44aa12e4ee034930c86b3462ef35b9003874b133203"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "c93b62c22d1e8fc4a4ac38e2ae10a195080d986408b7c6c2701387f702d3b0c2"
+    },
+    {
+      "path": "OWNERSHIP.md",
+      "sha256": "94ab66430c7dd238ce644ff276706ebb76d2484d9912cbc8f6ef6715624c57d2"
+    },
+    {
+      "path": "README.md",
+      "sha256": "d2bee7d8cd2d0dda15e5f30e85a02ce75f4d2dab47d40ba52d207931730f4c35"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "f7ebd666d3252e47a798e4ab534f89acb8e211b8deaba1035898c620abf05308"
+    },
+    {
+      "path": "appdeploy.auth-login.json",
+      "sha256": "d70fc4fcd358fa8564c526aa43797e6324d31568eb545af327b9f19e64c60dd9"
+    },
+    {
+      "path": "backend/index.ts",
+      "sha256": "7ebd6fa08c55067994a4a16d1bb2e7c6afb8635eb088f39b1969e023c226f768"
+    },
+    {
+      "path": "docs/RIGHTS-CHECKLIST.md",
+      "sha256": "68d7798f9b6ee852a420859097aa3ac7b93aee4fd3394425c7978d92bcc08169"
+    },
+    {
+      "path": "index.html",
+      "sha256": "a665113576c6a0f90434b605be0135af3f95374aa32bcc7419079c45ca35b386"
+    },
+    {
+      "path": "package.json",
+      "sha256": "712b5e685a46d367f2731ea0dddad7dfc67543ed699120ef1be92a3362ed659f"
+    },
+    {
+      "path": "postcss.config.js",
+      "sha256": "99debd91ee55ba39fa2378744a23239d71fbfced132ed7ee36a5e845eb132605"
+    },
+    {
+      "path": "public/privacy.html",
+      "sha256": "879c348ea3263f66b992f11997c4c730531938d8269b654474d3f83145ef4a63"
+    },
+    {
+      "path": "public/rights.html",
+      "sha256": "f972c89b73bce8b33a61c99ca379be3f1fd98a5526512414d07d14d4f695a7bf"
+    },
+    {
+      "path": "public/terms.html",
+      "sha256": "ccda3b5d7f0945e6e041e77892047c2f5338e202de4ea9faadb4232e69905e25"
+    },
+    {
+      "path": "src/App.tsx",
+      "sha256": "f09b6341ec42d756091313660e44e0d61a8e141239a6289db72e8f7382a0289c"
+    },
+    {
+      "path": "src/index.css",
+      "sha256": "294cd5ee5e7b6ae3417bc4961c4b5bdcf4436274aa432a509f117e4add6f719d"
+    },
+    {
+      "path": "src/main.tsx",
+      "sha256": "f9a340df66261a2e4b5956db660d89d4c6b43d1dc39f22dcf1223b07f6ef2550"
+    },
+    {
+      "path": "tailwind.config.js",
+      "sha256": "ce8c44a21f3faa3e994afb53d6957c56c199f279a574542ab230e74807e9f5c9"
+    },
+    {
+      "path": "tests/tests.json",
+      "sha256": "8be372c9e6bb5dac2d29ad9a829c97849724738db30694bbe5871614194547bd"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "f5d341929559815ae7150906a428b07630513ddb5a5958d6c8444c71e485b2fe"
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "608239a5f2c500d7a00e0787bcad58fcff9e9c622bf0e2cf71b7a2cb5455f3ac"
+    }
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 83,
+      "sha256": "1e4fc0f6159f229de956c44aa12e4ee034930c86b3462ef35b9003874b133203"
+    },
+    {
+      "path": "appdeploy.auth-login.json",
+      "bytes": 364,
+      "sha256": "d70fc4fcd358fa8564c526aa43797e6324d31568eb545af327b9f19e64c60dd9"
+    },
+    {
+      "path": "backend/index.ts",
+      "bytes": 10430,
+      "sha256": "7ebd6fa08c55067994a4a16d1bb2e7c6afb8635eb088f39b1969e023c226f768"
+    },
+    {
+      "path": "docs/HANDOVER.md",
+      "bytes": 11477,
+      "sha256": "c90999657e692a53347c3e69290310e8d549b733324b02e063f90a87861e6dda"
+    },
+    {
+      "path": "docs/RIGHTS-CHECKLIST.md",
+      "bytes": 3334,
+      "sha256": "68d7798f9b6ee852a420859097aa3ac7b93aee4fd3394425c7978d92bcc08169"
+    },
+    {
+      "path": "index.html",
+      "bytes": 487,
+      "sha256": "a665113576c6a0f90434b605be0135af3f95374aa32bcc7419079c45ca35b386"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1422,
+      "sha256": "c93b62c22d1e8fc4a4ac38e2ae10a195080d986408b7c6c2701387f702d3b0c2"
+    },
+    {
+      "path": "OWNERSHIP.md",
+      "bytes": 3304,
+      "sha256": "94ab66430c7dd238ce644ff276706ebb76d2484d9912cbc8f6ef6715624c57d2"
+    },
+    {
+      "path": "package.json",
+      "bytes": 641,
+      "sha256": "712b5e685a46d367f2731ea0dddad7dfc67543ed699120ef1be92a3362ed659f"
+    },
+    {
+      "path": "postcss.config.js",
+      "bytes": 82,
+      "sha256": "99debd91ee55ba39fa2378744a23239d71fbfced132ed7ee36a5e845eb132605"
+    },
+    {
+      "path": "public/privacy.html",
+      "bytes": 3343,
+      "sha256": "879c348ea3263f66b992f11997c4c730531938d8269b654474d3f83145ef4a63"
+    },
+    {
+      "path": "public/rights.html",
+      "bytes": 1953,
+      "sha256": "f972c89b73bce8b33a61c99ca379be3f1fd98a5526512414d07d14d4f695a7bf"
+    },
+    {
+      "path": "public/terms.html",
+      "bytes": 3674,
+      "sha256": "ccda3b5d7f0945e6e041e77892047c2f5338e202de4ea9faadb4232e69905e25"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8555,
+      "sha256": "122cfeda62788a29ec47a2b5dcce6fb1e9f015d46b5e0cf845fdb8695991c26e"
+    },
+    {
+      "path": "src/App.tsx",
+      "bytes": 46186,
+      "sha256": "f09b6341ec42d756091313660e44e0d61a8e141239a6289db72e8f7382a0289c"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 13528,
+      "sha256": "294cd5ee5e7b6ae3417bc4961c4b5bdcf4436274aa432a509f117e4add6f719d"
+    },
+    {
+      "path": "src/main.tsx",
+      "bytes": 231,
+      "sha256": "f9a340df66261a2e4b5956db660d89d4c6b43d1dc39f22dcf1223b07f6ef2550"
+    },
+    {
+      "path": "tailwind.config.js",
+      "bytes": 164,
+      "sha256": "ce8c44a21f3faa3e994afb53d6957c56c199f279a574542ab230e74807e9f5c9"
+    },
+    {
+      "path": "tests/tests.json",
+      "bytes": 6577,
+      "sha256": "8be372c9e6bb5dac2d29ad9a829c97849724738db30694bbe5871614194547bd"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1361,
+      "sha256": "f7ebd666d3252e47a798e4ab534f89acb8e211b8deaba1035898c620abf05308"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 510,
+      "sha256": "f5d341929559815ae7150906a428b07630513ddb5a5958d6c8444c71e485b2fe"
+    },
+    {
+      "path": "vite.config.ts",
+      "bytes": 375,
+      "sha256": "608239a5f2c500d7a00e0787bcad58fcff9e9c622bf0e2cf71b7a2cb5455f3ac"
+    }
+  ],
+  "manifestSelfHash": "Omitted to avoid self-referential hash."
+}
